@@ -11,6 +11,10 @@ Estudiante de la carrera Informática Administrativa, apasionado por crear exper
 
 •	🎨 HTML5 & CSS3
 
+•	🔴 Laravel
+
+•	🐘 PHP
+
 # Backend
 •	🟢 Node.js
 
